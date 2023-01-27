@@ -4,19 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f0e182b-6ec6-408d-ba37-7cb0ec68cd07" name="Changes" comment="V1 chahine">
+    <list default="true" id="9f0e182b-6ec6-408d-ba37-7cb0ec68cd07" name="Changes" comment="V2 chahine">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/BaseCarte.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/Carte.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/PiocheCarte.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/DeckOfCards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/DeckViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/DeckViewController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/WondersRLTD/Wonders.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/WondersRLTD/wonder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wondersarchitects/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/2pdv_bleu.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/2pdv_bleu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/3pdv_bleu.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/3pdv_bleu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/bois_gris.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/bois_gris.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/bouclierDC_rouge.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/bouclierDC_rouge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/bouclierSC_rouge.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/bouclierSC_rouge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/bouclier_rouge.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/bouclier_rouge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/brique_gris.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/brique_gris.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/engrenage_vert.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/engrenage_vert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/equerre_verre.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/equerre_vert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/papier_gris.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/papier_gris.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/piece_jaune.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/piece_jaune.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/pierre_gris.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/pierre_gris.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/tablette_vert.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/tablette_vert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/verre_gris.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/verre_gris.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +65,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iacha\Desktop\Informatique\7 WONDERS ARCHITECTS\src\main\resources\images\cards\card-back" />
       <recent name="C:\Users\iacha\Desktop\Informatique\7 WONDERS ARCHITECTS\src\main\resources\images" />
       <recent name="C:\Users\iacha\Desktop\Informatique\7 WONDERS ARCHITECTS\src\main\resources\com\example\wondersarchitects" />
       <recent name="C:\Users\iacha\Desktop\Informatique\7 WONDERS ARCHITECTS\src\main\java\com\example\wondersarchitects" />
       <recent name="C:\Users\iacha\Desktop\Informatique\7 WONDERS ARCHITECTS\src\main\java\com\example\wondersarchitects\CarteRLTD\tst" />
-      <recent name="C:\Users\iacha\Desktop\Informatique\7 WONDERS ARCHITECTS\src\main\resources" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.wondersarchitects" />
@@ -120,12 +124,20 @@
       <option name="project" value="LOCAL" />
       <updated>1674787180894</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="V2 chahine">
+      <created>1674791511504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674791511504</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V1 chahine" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1 chahine" />
+    <MESSAGE value="V2 chahine" />
+    <option name="LAST_COMMIT_MESSAGE" value="V2 chahine" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/7_WONDERS_ARCHITECTS$HelloApplication.ic" NAME="HelloApplication Coverage Results" MODIFIED="1674772610637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

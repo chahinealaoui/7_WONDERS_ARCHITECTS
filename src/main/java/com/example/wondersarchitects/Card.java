@@ -15,7 +15,7 @@ public class Card {
         setFaceName(faceName);
         setColor(color);
         String fileName = faceName + "_" + color +".png";
-        this.image = new Image("images/cards/CarteOk/" + fileName);
+        image = new Image("images/cards/card-back/"+fileName);
     }
 
     public String getFaceName() {
