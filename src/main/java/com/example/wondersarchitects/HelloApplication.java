@@ -7,6 +7,8 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 public class HelloApplication extends Application {
+
+    /* lancement du controller sur l'interface */
     public static void main(String[] args)
     {
         launch(args);

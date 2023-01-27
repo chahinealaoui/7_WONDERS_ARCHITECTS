@@ -4,61 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f0e182b-6ec6-408d-ba37-7cb0ec68cd07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/BaseCarte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/Carte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/Enum/Icon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/Enum/Merveille.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/Enum/PointDeVictoire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/Enum/Ressource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/Enum/SymboleScientifique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/PiocheCarte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/DeckViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/JetonRLTD/JetonConflit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/JetonRLTD/JetonVictoireMilitaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/JetonRLTD/JetonsProgres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/WondersRLTD/Wonders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/WondersRLTD/wonder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/wondersarchitects/deckView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/wondersarchitects/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/2pdv_bleu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/3pdv_bleu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/bois_gris.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/bouclierDC_rouge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/bouclierSC_rouge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/bouclier_rouge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/brique_gris.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/engrenage_vert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/equerre_verre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/papier_gris.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/piece_jaune.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/pierre_gris.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/tablette_vert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/CarteOk/verre_gris.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/card-back-alexandrie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/card-back-babylon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/card-back-ephese.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/card-back-gizeh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/card-back-halicarnasse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/card-back-olympie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/card-back-question.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cards/card-back/card-back-rhodes.png" afterDir="false" />
+    <list default="true" id="9f0e182b-6ec6-408d-ba37-7cb0ec68cd07" name="Changes" comment="V1 chahine">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/BaseCarte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/Carte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/CarteRLTD/PiocheCarte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/DeckOfCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/DeckViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/DeckViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/WondersRLTD/Wonders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/WondersRLTD/wonder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wondersarchitects/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +61,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iacha\Desktop\Informatique\7 WONDERS ARCHITECTS\src\main\resources\images" />
       <recent name="C:\Users\iacha\Desktop\Informatique\7 WONDERS ARCHITECTS\src\main\resources\com\example\wondersarchitects" />
       <recent name="C:\Users\iacha\Desktop\Informatique\7 WONDERS ARCHITECTS\src\main\java\com\example\wondersarchitects" />
       <recent name="C:\Users\iacha\Desktop\Informatique\7 WONDERS ARCHITECTS\src\main\java\com\example\wondersarchitects\CarteRLTD\tst" />
@@ -154,23 +113,19 @@
       <option name="presentableId" value="Default" />
       <updated>1674765731369</updated>
     </task>
+    <task id="LOCAL-00001" summary="V1 chahine">
+      <created>1674787180894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674787180894</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/Card.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/wondersarchitects/Card.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V1 chahine" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1 chahine" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/7_WONDERS_ARCHITECTS$HelloApplication.ic" NAME="HelloApplication Coverage Results" MODIFIED="1674772610637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

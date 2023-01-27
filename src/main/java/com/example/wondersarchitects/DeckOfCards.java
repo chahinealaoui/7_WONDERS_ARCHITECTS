@@ -11,12 +11,13 @@ public class DeckOfCards {
     private Image backOfCardImage;
 
 
+    /* Constructeur de la classe DeckOfCard */
     public DeckOfCards(ArrayList<Card> deck) {
         this.deck = deck;
         backOfCardImage = new Image("images/cards/card-back/card-back-question.png");
     }
 
-
+    /* construction du deck de carte en utilisant les listes créees dans la classe Card */
     public DeckOfCards() {
         List<String> color = Card.getValidColor();
 
@@ -69,6 +70,7 @@ public class DeckOfCards {
         this.deck = deck;
     }
 
+    /* pour récuperer l'image du dos de la carte pour le visuel du deck sur l'interface */
     public Image getBackOfCardImage() {
         return backOfCardImage;
     }
@@ -77,6 +79,7 @@ public class DeckOfCards {
         this.backOfCardImage = backOfCardImage;
     }
 
+    /* fonction permettant de piocher une carte dans le deck et s'assure qu'il y a bien une carte en moins à chaque fois qu'une carte est tirée */
     public Card dealTopCard()
     {
         if (deck.size()>0)
